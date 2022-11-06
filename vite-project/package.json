@@ -10,7 +10,16 @@
   },
   "dependencies": {
     "react": "^18.2.0",
+<<<<<<< HEAD
     "react-dom": "^18.2.0"
+=======
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-favicon": "^1.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.3"
+>>>>>>> 33e3b741de96ed85d39ba9e3b40ac8eaaacbe3e5
   },
   "devDependencies": {
     "@types/react": "^18.0.22",
